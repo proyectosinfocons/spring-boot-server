@@ -30,7 +30,7 @@
 
 > [React + Spring Boot + PostgreSQL example](https://bezkoder.com/spring-boot-react-postgresql/)
 
-## Run Spring Boot application
+## Ejecutar la aplicacion con el comando en la terminal
 ```
 mvn spring-boot:run
 ```
